@@ -11,22 +11,24 @@ Playing with colours is always enjoyable, and the Colour Flipper allows you to d
    ```bash
    git clone https://github.com/AdrianBcode/colour-flipper.git
 
-**Navigate to the project directory:**
 
+**Navigate to the project directory:**
 bash
 Copy code
 cd colour-flipper
 Open the HTML file in your preferred web browser.
 
-**Click the "Flip Colour" button:**
 
+**Click the "Flip Colour" button:**
 Watch as the background colour of the display area changes randomly with each click.
 Keep clicking and exploring different colours! 🌈
+
 
 **Technologies Used**
 HTML5
 CSS3
 JavaScript (Vanilla)
+
 
 **What you can learn**
 JavaScript Event Handling: Understand how to listen for events (e.g., button clicks) and respond accordingly.
@@ -34,6 +36,7 @@ JavaScript Event Handling: Understand how to listen for events (e.g., button cli
 DOM Manipulation: Learn how to manipulate HTML elements (e.g., changing styles) using JavaScript.
 
 Randomization: Explore techniques for generating random values to create dynamic behaviour in web applications.
+
 
 **Where these skills could be useful**
 Web Development: Gain foundational knowledge essential for building interactive and dynamic web applications.
