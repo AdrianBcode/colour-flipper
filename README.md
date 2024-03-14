@@ -9,7 +9,7 @@ Playing with colours is always enjoyable, and the Colour Flipper allows you to d
 ## How to get started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/colour-flipper.git
+   git clone https://github.com/AdrianBcode/colour-flipper.git
 
 **Navigate to the project directory:**
 
@@ -30,10 +30,14 @@ JavaScript (Vanilla)
 
 **What you can learn**
 JavaScript Event Handling: Understand how to listen for events (e.g., button clicks) and respond accordingly.
+
 DOM Manipulation: Learn how to manipulate HTML elements (e.g., changing styles) using JavaScript.
-Randomization: Explore techniques for generating random values to create dynamic behavior in web applications.
+
+Randomization: Explore techniques for generating random values to create dynamic behaviour in web applications.
 
 **Where these skills could be useful**
 Web Development: Gain foundational knowledge essential for building interactive and dynamic web applications.
+
 UI/UX Design: Understand how to add engaging user interactions to enhance the user experience.
+
 Game Development: Apply similar concepts to create interactive game mechanics and interfaces.
